@@ -3,6 +3,7 @@ Build Date: 11 February 2024
 
 ----- Device -----
 - Cleanup several gapps
+- Rebase kernel over NopeNopeGuy's SiLont fork
 
 ------ ROM -------
 - Merged February security update
